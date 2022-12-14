@@ -1,3 +1,33 @@
+# Your Name
+
+Hi there! I'm Your Name, a software developer and data scientist.
+
+## Skills
+
+- Programming languages: Java, Python, C++
+- Tools: Git, Docker, Kubernetes
+- Platforms: Linux, Windows
+- Databases: MySQL, MongoDB
+
+## Projects
+
+Here are some of the projects I've worked on:
+
+- **Project 1**: Description of project 1.
+- **Project 2**: Description of project 2.
+- **Project 3**: Description of project 3.
+
+## Education
+
+- Bachelor's degree in Computer Science from University X
+- Master's degree in Data Science from University Y
+
+## Contact
+
+Feel free to contact me via email at yourname@gmail.com or connect with me on LinkedIn at https://www.linkedin.com/in/your-name/.
+
+
+
 - 👋 Hi, I’m Martin Forsberg
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
