@@ -1,13 +1,24 @@
 # Your Name
 
-Hi there! I'm Your Name, a software developer and data scientist.
+<h1 align='center'>Hi! 👋 I'm Martin</h1>
+I am a 4th year engineering studetn at Linköping university. At the moment I am pursuing a computer science degree. Take a look at some of my projects and laborations below
+
+## Contact
+<div align='center'>
+  <a href="https://www.linkedin.com/in/martin-forsberg/" target="_blank">
+    <img width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
+  </a>
+</div>
+
+## Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=marfo203&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
 ## Skills
 
-- Programming languages: Java, Python, C++
-- Tools: Git, Docker, Kubernetes
+- Programming languages: Java, Python, JavaScript, SQL
+- Tools: Git
 - Platforms: Linux, Windows
-- Databases: MySQL, MongoDB
+- Databases: MySQL, DjangoDB
 
 ## Projects
 
