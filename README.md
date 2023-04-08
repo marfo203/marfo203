@@ -12,6 +12,7 @@ I am a 4th year engineering studetn at Linköping university. At the moment I am
 
 ## Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=marfo203&theme=dark&mode=weekly)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marfo203&layout=compact)](https://github.com/marfo203/github-readme-stats)
 
 ## Skills
 
