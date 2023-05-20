@@ -1,4 +1,4 @@
-# Your Name
+# Martin Forsberg
 
 <h1 align='center'>Hi! 👋 I'm Martin</h1>
 I am a 4th year engineering studetn at Linköping university. At the moment I am pursuing a computer science degree. This page contains some of my own projects and laborations from university.
