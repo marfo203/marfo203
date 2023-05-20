@@ -16,16 +16,4 @@ I am a 4th year engineering studetn at Linköping university. At the moment I am
 - Tools: Git, VScode, Anaconda, 
 - Platforms: Linux, Windows
 
-## Projects
-
-Here are some of the projects I've worked on:
-
-- **Project 1**: Description of project 1.
-- **Project 2**: Description of project 2.
-- **Project 3**: Description of project 3.
-
-## Education
-
-- Bachelor's degree in Computer Science from University X
-- Master's degree in Data Science from University Y
 
