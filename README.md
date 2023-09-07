@@ -16,4 +16,10 @@ I am a 4th year engineering student at Linköping university. At the moment I am
 - Tools: Git, VScode, Anaconda, 
 - Platforms: Linux, Windows
 
+## Some relevant University courses, not always available on my Github (Liu course code)
+- Advanced Web Programming (TDDD27)
+- Software Engineering (TDDD88)
+- Natural Language Processing TDDE09
+- Computer Engineering Bachelor (TDDD83)
+
 
