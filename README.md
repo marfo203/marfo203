@@ -12,7 +12,7 @@ I am a 4th year engineering student at Linköping university. At the moment I am
 
 ## Skills
 
-- Programming languages: Java, R, Python, JavaScript, TypeScript, SQL, ADA
+- Programming languages: JavaScript, TypeScript, Java, R, Python, SQL, ADA
 - Tools: Git, VScode, Anaconda, 
 - Platforms: Linux, Windows
 
